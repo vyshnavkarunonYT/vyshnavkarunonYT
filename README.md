@@ -1,6 +1,5 @@
 ### Hi there 👋
-![LeetCode Stats](https://leetcode.com/u/Vyshnav_KS/)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/Vyshnav_KS)
 
 <!--
 **vyshnavkarunonYT/vyshnavkarunonYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
