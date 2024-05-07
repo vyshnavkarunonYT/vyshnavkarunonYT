@@ -1,5 +1,5 @@
 ### Hi there 👋
-![LeetCode Stats](https://leetcard.Vyshnav_KS/)
+![LeetCode Stats](https://leetcode.com/u/Vyshnav_KS/)
 
 
 <!--
