@@ -1,5 +1,4 @@
-### Hi there 👋
-![Leetcode Stats](https://leetcard.jacoblin.cool/Vyshnav_KS)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Vyshnav_KS?ext=heatmap)
 
 
 <!--
