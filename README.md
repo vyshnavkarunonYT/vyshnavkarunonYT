@@ -1,6 +1,6 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Vyshnav_KS?ext=heatmap)
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=therealvyshnavkarun&theme=dark)](https://codeforces.com/profile/therealvyshnavkarun)
-[![GeeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=whyyysh)](https://www.geeksforgeeks.org/user/whyyysh/)
+<!--[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=therealvyshnavkarun&theme=dark)](https://codeforces.com/profile/therealvyshnavkarun)
+[![GeeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=whyyysh)](https://www.geeksforgeeks.org/user/whyyysh/) -->
 
 
 <!--
