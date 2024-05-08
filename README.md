@@ -1,5 +1,5 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Vyshnav_KS?ext=heatmap)
-[![GeeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=whyyysh)](<YOUR_LINK_HERE>)
+[![GeeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=whyyysh)](https://www.geeksforgeeks.org/user/whyyysh/)
 
 <!--
 **vyshnavkarunonYT/vyshnavkarunonYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
