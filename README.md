@@ -1,6 +1,6 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Vyshnav_KS?ext=heatmap)
 [![GeeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=whyyysh)](https://www.geeksforgeeks.org/user/whyyysh/)
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=therealvyshnavkarun)](https://codeforces.com/profile/therealvyshnavkarun)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=therealvyshnavkarun&theme=dark)](https://codeforces.com/profile/therealvyshnavkarun)
 
 <!--
 **vyshnavkarunonYT/vyshnavkarunonYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
